@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap indexing for Googlebot and other search engines
+Sitemap: https://divyadentalghosi.com/sitemap.xml

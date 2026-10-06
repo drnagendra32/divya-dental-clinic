@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://divyadentalghosi.com/</loc>
+    <lastmod>2026-10-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://divyadentalghosi.com/assets/images/hero/clinic.jpg</image:loc>
+      <image:title>Divya Dental Clinic Ghosi Mau</image:title>
+      <image:caption>Divya Dental Clinic - Dr. Nagendra Chauhan (Best Dentist in Ghosi, Mau)</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://divyadentalghosi.com/assets/images/doctor/dr-nagendra.jpg</image:loc>
+      <image:title>Dr. Nagendra Chauhan BDS Dental Surgeon</image:title>
+      <image:caption>Chief Dental Surgeon with 17+ Years Experience at Divya Dental Clinic</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://divyadentalghosi.com/assets/images/logo/logo.jpg</image:loc>
+      <image:title>Divya Dental Clinic Logo</image:title>
+    </image:image>
+  </url>
+</urlset>
