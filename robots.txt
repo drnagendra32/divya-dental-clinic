@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap indexing for Googlebot and other search engines
-Sitemap: https://divyadentalghosi.com/sitemap.xml
+Sitemap: https://drnagendra32.github.io/divya-dental-clinic/sitemap.xml
